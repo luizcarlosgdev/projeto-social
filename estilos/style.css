@@ -38,3 +38,8 @@ main {
   width: 266px;
   height: 470px;
 }
+
+.links img{
+  width: 50px;
+  border-radius: 50%;
+}
