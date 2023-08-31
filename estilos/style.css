@@ -39,7 +39,18 @@ main {
   height: 470px;
 }
 
+.links {
+  text-align: right;
+}
+
 .links img{
   width: 50px;
+  margin: 10px;
   border-radius: 50%;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.6);
+  box-sizing: border-box;
+}
+
+.links img:hover {
+  border: 2px solid rgba(255, 255, 255, 0.504);
 }
